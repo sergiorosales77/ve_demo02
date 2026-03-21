@@ -1,0 +1,2 @@
+matplotlib
+# tkinter viene con Python en la mayoría de las instalaciones (no se instala con pip)
